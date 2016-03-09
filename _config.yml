@@ -1,4 +1,4 @@
-name: HappyChaosMonsters
+name: Happy Chaos Monsters
 favicon: null
 layout_spectrum: 0.4330388172529638
 typography_spectrum: 0.08804
@@ -22,7 +22,7 @@ color:
     - '#1aa8a7'
     - '#83c04b'
     - '#842264'
-  brandStrength: 0.9387780928518623
+  brandStrength: 0.5
   lightness: 0.9375
   saturation: 0.1875
   rhythmicContrast: 0.5
